@@ -5,22 +5,24 @@
 - Automating processes such as sending emails and sending photos
 - My own website
 - Some secret stuff
-
+-------------------------------------------------------------------
 
 - 🌱 I’m currently learning 
 -------------------------------------------------------------------
-. Javascript
-. Java
-. C
+-Javascript
+- Java
+- C
+-------------------------------------------------------------------
 
 - 💬 Ask me about
 -------------------------------------------------------------------
-. Anything technology related
-. Internet protocols
-. Cloud computing
-
+- Anything technology related
+- Internet protocols
+- Cloud computing
+-------------------------------------------------------------------
 - 📫 Get in touch
 -------------------------------------------------------------------
-. Whatsapp: +55 82 9 9410-6567
-. Email: Ottonarizzo@gmail.com
-. Discord: Sr.Orwssis#1784
+- Whatsapp: +55 82 9 9410-6567
+- Email: Ottonarizzo@gmail.com
+- Discord: Sr.Orwssis#1784
+-------------------------------------------------------------------
