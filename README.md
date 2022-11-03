@@ -14,8 +14,6 @@
 . Java
 . C
 -----------------------------
-- 💬 Ask me about 
------------------------------
 . Anything technology related
 . Internet protocols
 . Cloud computing
