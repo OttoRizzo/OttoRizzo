@@ -1,10 +1,9 @@
  Hi,I'am Otto Rizzo, a progammer from Brazil, i am looking for a job to improve my skils as web developer
 
 - 🔭 I’m currently working on
-------------------------------------------------------------------- 
-. Automating processes such as sending emails and sending photos
-. My own website
-. Some secret stuff
+- Automating processes such as sending emails and sending photos
+- My own website
+- Some secret stuff
 
 
 - 🌱 I’m currently learning 
