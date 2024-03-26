@@ -1,4 +1,4 @@
- Hi,I'am Otto Rizzo, a progammer from Brazil, i am looking for a job to improve my skils as web developer
+ Hi,I'am Otto Rizzo, a programmer from Brazil, i am looking for a job to improve my skils as web developer
 
 - 🔭 I’m currently working on
 - -------------------------------------------------------------------
